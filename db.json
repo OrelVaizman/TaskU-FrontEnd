@@ -1,0 +1,46 @@
+{
+    "task": [
+        {
+            "_id": "t101",
+            "userId": "u101",
+            "txt": "lorem ipsum dolor",
+            "isDone": false,
+            "priority": "High",
+            "color": "red"
+        },
+        {
+            "_id": "t102",
+            "userId": "u101",
+            "txt": "lorem ipsum dolor u102",
+            "isDone": false,
+            "priority": "Medium",
+            "color": "yellow"
+        },
+        {
+            "_id": "t103",
+            "userId": "u101",
+            "txt": "lorem ipsum dolor u103",
+            "isDone": false,
+            "priority": "Low",
+            "color": "green"
+        }
+    ],
+    "user": [
+        {
+            "_id": "u101",
+            "fullName": "Orel Vaizman",
+            "password": "123",
+            "userName": "SleroX",
+            "imgUrl": null,
+            "isAdmin": false
+        },
+        {
+            "_id": "u102",
+            "fullName": "Orel Saisman",
+            "password": "123",
+            "userName": "Smohta",
+            "imgUrl": null,
+            "isAdmin": false
+        }
+    ]
+}
