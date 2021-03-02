@@ -1,6 +1,6 @@
 # Task-U Frontend
 
-#Vue.JS Task Manager - A clone of Monday.com
+Vue.JS Task Manager - A clone of Monday.com
 
 ## Project setup
 ```
